@@ -6,11 +6,6 @@
 - HTML / CSS
 - 開學前開始看 React
 
-暑假時自己寫的東西可以把 repo 給部長看。
-
-## 大方向
-希望B07的同學們，可以先在暑假稍微自學一點網頁知識。開學後擔任跟新的B08部員的輔導員，上部課時B07可以加深自己的印象＋實作更多東西，同時也可以帶領B08進入狀況，教學相長。
-
 ## 基礎部課內容：上學期
 
 - 開發者基礎
@@ -30,23 +25,20 @@
 ## 課程規劃：上學期
 |日期|部課內容|
 |---|---|
-|9/14|開學週|
-|9/21|開發者基礎教學：bash, git, VScode|
-|9/28|網頁基礎：Javascript, HTML / CSS|
-|10/5|React Basics：components, props, state|
-|10/12|React：component lifecycle methods, function components, hooks|
-|10/19|More Topics on React|
-|10/26|React-related libraries|
-|11/2|期中考前一週（暫停一次）|
-|11/9|段考週結束|
-|11/16|express, serving static files|
-|11/23|MongoDB and mongoose|
-|11/30|Integrating static sites with a database|
-|12/7|Buffer|
-|12/14|Buffer|
-|12/21|Buffer|
-|12/28|Buffer|
-|1/4|期中考前一週（暫停一次）|
+|10/4|開發者基礎教學：bash, git, VScode|
+|10/11|網頁基礎：Javascript, HTML / CSS|
+|10/18|React Basics：components, props, state|
+|10/25|React：component lifecycle methods, function components, hooks|
+|11/1|More Topics on React, boilerplates|
+|11/8|Other JS libraries|
+|11/15|期中考前一週（暫停一次）|
+|11/22|段考週結束|
+|11/29|express, serving static files|
+|12/6|MongoDB and mongoose|
+|12/13|Integrating static sites with a database|
+|12/20|Buffer|
+|12/27|Buffer|
+|1/3|期中考前一週（暫停一次）|
 
 如果順利如期上完，Buffer可以上的內容：
 - Javascript: Asynchronous functions
@@ -56,11 +48,10 @@
 ## 專案開發：下學期
 
 ### 碼農的部分（QQ)
-負責人會先帶看一次源碼 （大概一堂課）。然後開始當碼農（無壓力）。
+負責人會先帶看一次源碼 （大概一堂課）。然後開始當碼農（有死線壓力的那種）。
 - 選課網站
 - 系學會網站
-    - 可能要先跟會長討論他們想放的內容
-    - 設計可以問 poga
+
 
 每個專案都要寫出一個自己的 documentation，包括：
 - 源碼解釋
